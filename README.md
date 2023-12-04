@@ -1,7 +1,7 @@
 # sftp-file-transfer
 
 # Overivew
-The code was writeen between the end of 2017 and early 2018 as part of my SFTP file transfer project. The code was for experimental purpose only. 
+The code was writen between the end of 2017 and early 2018 as part of my SFTP file transfer project. The code was for experimental purpose only. 
  
 # Installation
 
