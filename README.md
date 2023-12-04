@@ -1,7 +1,7 @@
 # sftp-file-transfer
 
 # Overivew
-The code was writen between the end of 2017 and early 2018 as part of my SFTP file transfer project. The code was for experimental purpose only. 
+The code was writen between the end of 2017 and early 2018 as part of my SFTP file transfer project. The code enables files transfer. The code enables files transfer from client to server with Secure File Transfer Protocol. The code was for experimental purpose only. 
  
 # Installation
 
